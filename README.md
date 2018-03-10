@@ -5,7 +5,7 @@ Compose and research some tips network in Linux real world
 + ### 1.1. Lab 1: Active directory and Samba
 + ### 1.2. Lab 2: Active directory and Bind
 ### 2. Openvpn - Certificate Authority (CA)
-+ ### 2.1. Openvpn Client to site
++ ### 2.1. Openvpn Client to site
 + ### 2.2. Openvpn Site to site
 ### 3. Web Server - Apache PHP MySQL Nginx 
 + ### 3.1. Apache, php, Mysql
