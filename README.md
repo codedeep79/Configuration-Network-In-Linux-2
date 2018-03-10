@@ -1,2 +1,2 @@
 # Configuration-Network-In-Linux-2
-Compose some tips network in Linux real world
+Compose and research some tips network in Linux real world
